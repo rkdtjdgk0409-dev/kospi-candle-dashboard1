@@ -1,0 +1,9 @@
+이번 오류는 pykrx 내부에서 KRX 지수 목록의 '지수명' 열을 찾지 못해 발생했습니다.
+
+1. GitHub 저장소 최상위의 update_kospi.py를 이 폴더의 파일 내용으로 교체합니다.
+2. 저장소 최상위의 requirements.txt도 이 폴더의 파일 내용으로 교체합니다.
+3. .github/workflows/main.yml의 실행 명령은 아래와 같아야 합니다.
+   run: python update_kospi.py
+4. 두 파일을 커밋한 뒤 기존 실패 화면의 Re-run jobs를 누르지 마세요.
+5. Actions 화면에서 Run workflow 버튼으로 새 실행을 만드세요.
+
