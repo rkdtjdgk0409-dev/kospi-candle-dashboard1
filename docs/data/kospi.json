@@ -2,11 +2,11 @@
   "name": "KOSPI",
   "ticker": "^KS11",
   "latest": {
-    "trade_date": "2026-11-20",
-    "close": 4869.9599609375,
-    "change_rate": -5.214789897246819
+    "trade_date": "2026-11-23",
+    "close": 4708.5400390625,
+    "change_rate": -3.314604702497914
   },
-  "updated_at": "2026-11-24T04:11:10+09:00",
+  "updated_at": "2026-11-25T03:50:38+09:00",
   "data": [
     {
       "trade_date": "2000-01-04",
@@ -66156,7 +66156,7 @@
       "close": 5290.52978515625,
       "volume": 247800,
       "trade_value": null,
-      "change_rate": -0.9770322569796042
+      "change_rate": NaN
     },
     {
       "trade_date": "2026-11-16",
@@ -66207,6 +66207,16 @@
       "volume": 206700,
       "trade_value": null,
       "change_rate": -5.214789897246819
+    },
+    {
+      "trade_date": "2026-11-23",
+      "open": 4734.89990234375,
+      "high": 4759.8798828125,
+      "low": 4586.7998046875,
+      "close": 4708.5400390625,
+      "volume": 218600,
+      "trade_value": null,
+      "change_rate": -3.314604702497914
     }
   ]
 }
